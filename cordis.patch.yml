@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-macos-theme
+      name: '@local/dsh-macos-theme'
